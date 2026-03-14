@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MasterFrost.aternos.me:28221",
+    "port": 28221,
     "version": "",
     "try-creative": false
   },
